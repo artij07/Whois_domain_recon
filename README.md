@@ -18,4 +18,9 @@ domain records work and how information can be used during reconnaissance in eth
 
 ---
 
-## 📂 Project Structure
+## Commands Used 
+-whois {domain}
+## Commands performed on these websites
+-whois google.com
+-whois hdfcbank.com
+-whois instagram.com
